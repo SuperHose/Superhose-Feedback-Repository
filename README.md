@@ -1,4 +1,4 @@
-# Superhose bug 反馈库
+# Superhose 反馈库
 Superhose 服务器官方的 Bug 反馈库
 
 ### 提交 Bug 方法：
